@@ -1,6 +1,6 @@
 public class EvenOdd {
     public static void main(String[] args) {
-        int number = 5;
+        int number = 6;
 
         if (number % 2 == 0)
             System.out.println("Even");
